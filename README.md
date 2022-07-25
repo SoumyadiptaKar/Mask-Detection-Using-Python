@@ -1,1 +1,3 @@
-# Mask-Detection-Using-Python
+# Mask Detection Using CNN model using Python
+
+## Classification
