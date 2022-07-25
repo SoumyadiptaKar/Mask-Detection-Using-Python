@@ -9,7 +9,7 @@ This project is based on classification problem. In response to the ongoing COVI
 You are provided with following files :
 1. with_mask : This folder contains 1900+ images of people wearing mask which we divide into train and test set in 80:20 ratio.
 Sample images -
-![0_0_0 copy 5 2](https://user-images.githubusercontent.com/69068577/180820833-f558a6b5-81e4-4e2e-a356-57edcb045741.jpg ){ width=50% }
+![0_0_0 copy 5 2](https://user-images.githubusercontent.com/69068577/180820833-f558a6b5-81e4-4e2e-a356-57edcb045741.jpg ){ width=100 }
 ![0_0_0 copy 35](https://user-images.githubusercontent.com/69068577/180820865-5954d115-39f3-46bd-a633-ebf7a78d2ed2.jpg =100x)
 ![0_0_0 copy 38](https://user-images.githubusercontent.com/69068577/180820880-b7b13ab2-9e10-4346-8208-ac2917b7340d.jpg=100x)
 ![0_0_0 copy 51](https://user-images.githubusercontent.com/69068577/180820902-ebb666b4-4bcc-4060-9667-c1f99db95853.jpg =100x)
